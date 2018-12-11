@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shivanshu Singh</title>
-    <link>https://shivnshu.github.io/categories/</link>
+    <link>https://randombits.xyz/categories/</link>
     <description>Recent content in Categories on Shivanshu Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://shivnshu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://randombits.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dev</title>
-      <link>https://shivnshu.github.io/categories/dev/</link>
+      <link>https://randombits.xyz/categories/dev/</link>
       <pubDate>Mon, 23 Oct 2017 08:59:46 +0530</pubDate>
       
-      <guid>https://shivnshu.github.io/categories/dev/</guid>
+      <guid>https://randombits.xyz/categories/dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://shivnshu.github.io/categories/docker/</link>
+      <link>https://randombits.xyz/categories/docker/</link>
       <pubDate>Mon, 23 Oct 2017 08:59:46 +0530</pubDate>
       
-      <guid>https://shivnshu.github.io/categories/docker/</guid>
+      <guid>https://randombits.xyz/categories/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://shivnshu.github.io/categories/linux/</link>
+      <link>https://randombits.xyz/categories/linux/</link>
       <pubDate>Fri, 15 Sep 2017 08:43:44 +0530</pubDate>
       
-      <guid>https://shivnshu.github.io/categories/linux/</guid>
+      <guid>https://randombits.xyz/categories/linux/</guid>
       <description></description>
     </item>
     
