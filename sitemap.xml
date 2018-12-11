@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>localhost/posts/docker-for-highly-disposable-dev-environments/</loc>
+    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/journey-from-windows-to-arch-linux/</loc>
+    <lastmod>2017-09-15T08:43:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/about/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/categories/dev/</loc>
+    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/categories/docker/</loc>
+    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/categories/linux/</loc>
+    <lastmod>2017-09-15T08:43:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/</loc>
+    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/</loc>
+    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

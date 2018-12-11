@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Shivanshu Singh</title>
+    <link>localhost/categories/linux/</link>
+    <description>Recent content in Linux on Shivanshu Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Sep 2017 08:43:44 +0530</lastBuildDate>
+    
+	<atom:link href="localhost/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Journey from Windows to Arch Linux</title>
+      <link>localhost/posts/journey-from-windows-to-arch-linux/</link>
+      <pubDate>Fri, 15 Sep 2017 08:43:44 +0530</pubDate>
+      
+      <guid>localhost/posts/journey-from-windows-to-arch-linux/</guid>
+      <description>Windows, the most popular operating system, works well for the day-to-day activities but is of little help when it comes to programming and development.
+Inspired by seniors, I took my first step towards using Ubuntu, the most popular linux, as my host operating system about a year ago. It felt very uncomfortable at first to use this not-so-good-looking OS. But overtime, the simplicity and the ease of use overshadowed the unsightly UI.</description>
+    </item>
+    
+  </channel>
+</rss>
