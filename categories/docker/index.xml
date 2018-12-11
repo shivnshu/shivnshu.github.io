@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on Shivanshu Singh</title>
-    <link>localhost/categories/docker/</link>
+    <link>https://shivnshu.github.io/categories/docker/</link>
     <description>Recent content in Docker on Shivanshu Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Oct 2017 08:59:46 +0530</lastBuildDate>
     
-	<atom:link href="localhost/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shivnshu.github.io/categories/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker for highly disposable development environments</title>
-      <link>localhost/posts/docker-for-highly-disposable-dev-environments/</link>
+      <link>https://shivnshu.github.io/posts/docker-for-highly-disposable-dev-environments/</link>
       <pubDate>Mon, 23 Oct 2017 08:59:46 +0530</pubDate>
       
-      <guid>localhost/posts/docker-for-highly-disposable-dev-environments/</guid>
+      <guid>https://shivnshu.github.io/posts/docker-for-highly-disposable-dev-environments/</guid>
       <description>Virtual machines are the perfect way of isolating your work environment from your host environment. But when your work is only limited to the user-space programs, this perfect isolation, which comes at the price of performance, is not required.
 With the onset of namespaces in linux kernel, the concept of containers (sometimes called lightVM) came to light. Unlike jails, namespaces also isolate and visualize the process&amp;rsquo;s pids, uids, IPC and network access.</description>
     </item>
