@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>localhost/bookmarks/</loc>
+    <lastmod>2018-12-10T20:07:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/books/</loc>
+    <lastmod>2018-12-10T19:35:44+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>localhost/posts/docker-for-highly-disposable-dev-environments/</loc>
     <lastmod>2017-10-23T08:59:46+05:30</lastmod>
   </url>
@@ -47,7 +57,7 @@
   
   <url>
     <loc>localhost/</loc>
-    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+    <lastmod>2018-12-10T20:07:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
