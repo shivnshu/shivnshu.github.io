@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Shivanshu Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 17 Sep 2017 08:59:46 +0530</lastBuildDate>
     
 	<atom:link href="https://r4ndombits.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books</title>
+      <link>https://r4ndombits.org/categories/books/</link>
+      <pubDate>Sun, 17 Sep 2017 08:59:46 +0530</pubDate>
+      
+      <guid>https://r4ndombits.org/categories/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dev</title>
