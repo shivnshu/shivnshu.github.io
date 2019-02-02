@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Shivanshu Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2017 08:59:46 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 02:21:54 +0530</lastBuildDate>
     
 	<atom:link href="https://r4ndombits.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Year of Inactivity &amp; Procrastination</title>
+      <link>https://r4ndombits.org/posts/a-year-of-inactivity-and-procrastination/</link>
+      <pubDate>Sat, 02 Feb 2019 02:21:54 +0530</pubDate>
+      
+      <guid>https://r4ndombits.org/posts/a-year-of-inactivity-and-procrastination/</guid>
+      <description>I have been meaning to write a post for a long time, but every time I was held down by some other activity, or so I thought. Procrastination is the bane of most inexperienced writers, and in my case, it also reflected in &amp;ldquo;my ways&amp;rdquo; of doing assignments and projects since last two years. I am not saying that procrastination is the only cause of my inactivity, but it does contribute to it a lot.</description>
+    </item>
     
     <item>
       <title>Docker for highly disposable development environments</title>
