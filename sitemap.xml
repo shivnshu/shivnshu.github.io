@@ -1,98 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://r4ndombits.org/posts/a-year-of-inactivity-and-procrastination/</loc>
+    <loc>https://r4ndombits.com/posts/a-year-of-inactivity-and-procrastination/</loc>
     <lastmod>2019-02-02T02:21:54+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/bookmarks/</loc>
+    <loc>https://r4ndombits.com/categories/</loc>
+    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/categories/confession/</loc>
+    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/posts/</loc>
+    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/categories/random/</loc>
+    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/</loc>
+    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/bookmarks/</loc>
     <lastmod>2018-12-10T20:07:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/books/</loc>
+    <loc>https://r4ndombits.com/books/</loc>
     <lastmod>2018-12-10T19:35:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/posts/docker-for-highly-disposable-dev-environments/</loc>
+    <loc>https://r4ndombits.com/categories/dev/</loc>
     <lastmod>2017-10-23T08:59:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/posts/lessons-from-harry-potter/</loc>
+    <loc>https://r4ndombits.com/categories/docker/</loc>
+    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/posts/docker-for-highly-disposable-dev-environments/</loc>
+    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/categories/books/</loc>
     <lastmod>2017-09-17T08:59:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/posts/journey-from-windows-to-arch-linux/</loc>
+    <loc>https://r4ndombits.com/posts/lessons-from-harry-potter/</loc>
+    <lastmod>2017-09-17T08:59:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r4ndombits.com/posts/journey-from-windows-to-arch-linux/</loc>
     <lastmod>2017-09-15T08:43:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/categories/books/</loc>
-    <lastmod>2017-09-17T08:59:46+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/categories/</loc>
-    <lastmod>2017-09-17T08:59:46+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/categories/confession/</loc>
-    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/categories/dev/</loc>
-    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/categories/docker/</loc>
-    <lastmod>2017-10-23T08:59:46+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/categories/linux/</loc>
+    <loc>https://r4ndombits.com/categories/linux/</loc>
     <lastmod>2017-09-15T08:43:44+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/posts/</loc>
-    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
-    <priority>0</priority>
+    <loc>https://r4ndombits.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://r4ndombits.org/categories/random/</loc>
-    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/</loc>
-    <lastmod>2019-02-02T02:21:54+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://r4ndombits.org/tags/</loc>
-    <priority>0</priority>
+    <loc>https://r4ndombits.com/tags/</loc>
   </url>
   
 </urlset>

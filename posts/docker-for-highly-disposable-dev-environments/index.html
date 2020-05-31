@@ -9,12 +9,12 @@
     
     <meta name="keywords" content="blog,developer,personal">
 
-    <base href="https://r4ndombits.org">
+    <base href="https://r4ndombits.com">
     <title>
   Docker for highly disposable development environments · Shivanshu Singh
 </title>
 
-    <link rel="canonical" href="https://r4ndombits.org/posts/docker-for-highly-disposable-dev-environments/">
+    <link rel="canonical" href="https://r4ndombits.com/posts/docker-for-highly-disposable-dev-environments/">
 
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:300,700|Source+Code+Pro:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
@@ -23,7 +23,7 @@
     
       
       
-      <link rel="stylesheet" href="https://r4ndombits.org/css/coder.min.cd087ace86754b082dec94545567f8361cba42e84f8e15edbc4a9f6e52bd1f6a.css" integrity="sha256-zQh6zoZ1Swgt7JRUVWf4Nhy6QuhPjhXtvEqfblK9H2o=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="https://r4ndombits.com/css/coder.min.cd087ace86754b082dec94545567f8361cba42e84f8e15edbc4a9f6e52bd1f6a.css" integrity="sha256-zQh6zoZ1Swgt7JRUVWf4Nhy6QuhPjhXtvEqfblK9H2o=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -32,19 +32,19 @@
 
     
 
-    <link rel="icon" type="image/png" href="https://r4ndombits.org/images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="https://r4ndombits.org/images/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://r4ndombits.com/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://r4ndombits.com/images/favicon-16x16.png" sizes="16x16">
 
     
 
-    <meta name="generator" content="Hugo 0.50" />
+    <meta name="generator" content="Hugo 0.71.1" />
   </head>
 
   <body class=" ">
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="https://r4ndombits.org">
+    <a class="navigation-title" href="https://r4ndombits.com">
       Shivanshu Singh
     </a>
     <input type="checkbox" id="menu-toggle" />
@@ -53,15 +53,15 @@
       
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://r4ndombits.org/books/">Books</a>
+            <a class="navigation-link" href="https://r4ndombits.com/books/">Books</a>
           </li>
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://r4ndombits.org/bookmarks/">Bookmarks</a>
+            <a class="navigation-link" href="https://r4ndombits.com/bookmarks/">Bookmarks</a>
           </li>
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://r4ndombits.org/about/">About</a>
+            <a class="navigation-link" href="https://r4ndombits.com/about/">About</a>
           </li>
         
       
@@ -89,14 +89,14 @@
             </span>
             <span class="reading-time">
               <i class="fas fa-clock"></i>
-              2 minutes read
+              One minute read
             </span>
           </div>
           <div class="categories">
   <i class="fas fa-folder"></i>
-    <a href="https://r4ndombits.org/categories/docker/">docker</a>
+    <a href="https://r4ndombits.com/categories/docker/">docker</a>
       <span class="separator">•</span>
-    <a href="https://r4ndombits.org/categories/dev/">dev</a></div>
+    <a href="https://r4ndombits.com/categories/dev/">dev</a></div>
 
           
         </div>
@@ -104,22 +104,8 @@
 
       <div>
         <p>Virtual machines are the perfect way of isolating your work environment from your host environment. But when your work is only limited to the user-space programs, this perfect isolation, which comes at the price of performance, is not required.</p>
-
 <p>With the onset of <a href="https://en.wikipedia.org/wiki/Linux_namespaces">namespaces in linux kernel</a>, the concept of containers (sometimes called lightVM) came to light. Unlike <a href="https://en.wikipedia.org/wiki/Chroot">jails</a>, namespaces also isolate and visualize the process&rsquo;s pids, uids, <a href="https://en.wikipedia.org/wiki/Inter-process_communication">IPC</a> and network access. These isolations suffice to containerize user-space programs without hardware abstraction. Following are some non-trivial use cases of containers.</p>
-
-<ol>
-    <li>
-    <strong>Docker for Machine learning applications</strong><br/>
-        Machine learning applications that require the use of GPU (nvidia) are the perfect example of container's usability. With the release of <a href="https://github.com/NVIDIA/nvidia-docker">nvidia-docker</a>, it is now possible to build the docker containers leveraging the Nvidia GPUs. Replacing <code>docker</code> by <code>nvidia-docker</code> allows the GPUs to be accessible by provisioned container.
-    </li>
-    <br/>
-    <li>
-        <strong>Running GUI apps with Docker</strong><br/>
-        There are few different options to run GUI applications inside Docker container like <a href="https://stackoverflow.com/questions/16296753/can-you-run-gui-apps-in-a-docker-container/16311264#16311264">ssh with X11 forwarding</a> or <a href="https://blog.docker.com/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/">VNC</a>. But when it comes to run applications using OpenGL like <a href="https://answers.ros.org/question/44840/rosrun-rviz-and-x-window/">Rviz</a>, X11 forwarding with ssh fails miserably. Hence, one simple option to accomplish this task is to share X11 socket with the container and use it directly.
-    <br/>
-    The idea here is to use the same uid gid of the container user as of the host user exemplified <a href="https://github.com/shivnshu/ros/blob/master/Dockerfile">here</a>. While provisioning the container, the env variable <code>DISPLAY</code> is exported and volume <code>~/.Xauthority</code> of host is mounted to <code>~/.Xauthority</code> on container filesystem. The preceding effects can be achieved by running <br/> <code>docker run -it -e DISPLAY -v $HOME/.Xauthority:/home/developer/.Xauthority --net=host image-name</code>
-    </li>
-</ol>
+<!-- raw HTML omitted -->
 
       </div>
 
