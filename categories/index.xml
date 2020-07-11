@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shivanshu Singh</title>
@@ -6,49 +6,13 @@
     <description>Recent content in Categories on Shivanshu Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Feb 2019 02:21:54 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2017 08:59:46 +0530</lastBuildDate>
     
 	<atom:link href="https://r4ndombits.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>confession</title>
-      <link>https://r4ndombits.com/categories/confession/</link>
-      <pubDate>Sat, 02 Feb 2019 02:21:54 +0530</pubDate>
-      
-      <guid>https://r4ndombits.com/categories/confession/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random</title>
-      <link>https://r4ndombits.com/categories/random/</link>
-      <pubDate>Sat, 02 Feb 2019 02:21:54 +0530</pubDate>
-      
-      <guid>https://r4ndombits.com/categories/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dev</title>
-      <link>https://r4ndombits.com/categories/dev/</link>
-      <pubDate>Mon, 23 Oct 2017 08:59:46 +0530</pubDate>
-      
-      <guid>https://r4ndombits.com/categories/dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>https://r4ndombits.com/categories/docker/</link>
-      <pubDate>Mon, 23 Oct 2017 08:59:46 +0530</pubDate>
-      
-      <guid>https://r4ndombits.com/categories/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>books</title>
+      <title>Books</title>
       <link>https://r4ndombits.com/categories/books/</link>
       <pubDate>Sun, 17 Sep 2017 08:59:46 +0530</pubDate>
       
@@ -57,11 +21,47 @@
     </item>
     
     <item>
-      <title>linux</title>
+      <title>Confession</title>
+      <link>https://r4ndombits.com/categories/confession/</link>
+      <pubDate>Sat, 02 Feb 2019 02:21:54 +0530</pubDate>
+      
+      <guid>https://r4ndombits.com/categories/confession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dev</title>
+      <link>https://r4ndombits.com/categories/dev/</link>
+      <pubDate>Mon, 23 Oct 2017 08:59:46 +0530</pubDate>
+      
+      <guid>https://r4ndombits.com/categories/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://r4ndombits.com/categories/docker/</link>
+      <pubDate>Mon, 23 Oct 2017 08:59:46 +0530</pubDate>
+      
+      <guid>https://r4ndombits.com/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
       <link>https://r4ndombits.com/categories/linux/</link>
       <pubDate>Fri, 15 Sep 2017 08:43:44 +0530</pubDate>
       
       <guid>https://r4ndombits.com/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://r4ndombits.com/categories/random/</link>
+      <pubDate>Sat, 02 Feb 2019 02:21:54 +0530</pubDate>
+      
+      <guid>https://r4ndombits.com/categories/random/</guid>
       <description></description>
     </item>
     
